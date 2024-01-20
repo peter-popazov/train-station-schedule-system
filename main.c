@@ -10,7 +10,6 @@
 #define MAX_INPUT 10
 #define MAX_INPUT_USER 25
 
-
 // Структура для зберігання іформації про користувача
 struct User {
     char username[30];
